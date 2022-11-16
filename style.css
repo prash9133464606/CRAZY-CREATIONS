@@ -1,0 +1,38 @@
+.greatstory {
+background-color: black;
+color: red;
+text-align: center;
+text-size-adjust:100vh;
+height: 20px;
+font-size: larger;
+font-weight: bold;
+
+
+}
+.MAIN {
+   
+    background-size: cover;
+
+}
+.SUB-HEADING {
+    text-align: center;
+
+
+
+}
+.trend {
+    text-decoration-color: rgb(8, 228, 235);
+    font-style: calc();
+    color: purple;
+    font-size: larger;
+    text-decoration-color: wheat;
+}
+.BUTTON {
+text-align: center;
+
+
+
+}
+.top {
+    text-align: center;
+}
